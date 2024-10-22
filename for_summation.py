@@ -5,4 +5,4 @@ num = int(input())
 for i in range(num + 1):
     sum = sum + i
 
-print("Sum: ", str(sum))
+print(str(sum))
